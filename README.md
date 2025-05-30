@@ -53,9 +53,9 @@
 ### 🌐 Let's Connect
 
 <p>
-  <a href="https://twitter.com/your_twitter_handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="[https://twitter.com/your_twitter_handle](https://www.defibox.finance)" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://daggertoothcaster.eth.limo" target="_blank"><img src="https://img.shields.io/badge/ENS-daggertoothcaster.eth-%234285F4?style=flat-square"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-MailMe-%23D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:flashdanacom@gmail.com"><img src="https://img.shields.io/badge/Email-MailMe-%23D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
